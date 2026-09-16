@@ -155,7 +155,7 @@ ITI_Rag_Assist_ForDeepLearning-main/
 │   └── requirements.txt
 │
 ├── notebooks/
-│   └── rag_pipeline.ipynb            # Data loading, chunking, embeddings, retrieval, evaluation
+│   └── rag_pipeline_FINAL.ipynb            # Data loading, chunking, embeddings, retrieval, evaluation
 │
 ├── docs/
 │   └── images/                       # Screenshots referenced below
