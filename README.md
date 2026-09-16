@@ -544,10 +544,8 @@ One-click example questions, and the loading indicator shown while the backend r
 
 ## Contributors
 
-> **TODO:** replace with your real names before submission.
-
-- **[Your Name]** — RAG pipeline: document preprocessing, chunking, embeddings, vector database, evaluation
-- **[Teammate's Name]** — FastAPI backend, Streamlit frontend, integration, testing, deployment
+ -Sara Ayman Abdel Moneim Zeitoun
+ -Nouran Yasser ABdel-Samei Salama
 
 ---
 
