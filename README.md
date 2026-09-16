@@ -219,7 +219,7 @@ ollama --version
 ### 2. Clone the Repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone <https://github.com/SaraAyman-240/ITI_Rag_Assist_ForDeepLearning.git>
 cd ITI_Rag_Assist_ForDeepLearning-main
 ```
 
